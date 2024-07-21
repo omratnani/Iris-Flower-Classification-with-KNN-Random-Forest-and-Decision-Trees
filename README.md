@@ -65,13 +65,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn
   - Accuracy: 1.00
   - Confusion Matrix:
 
-  ![KNN Confusion Matrix](images/knn_confusion_matrix.png)
 
 - **Decision Trees**:
   - Accuracy: 1.00
   - Decision Tree Visualization:
 
-  ![Decision Tree](images/decision_tree.png)
 
 - **Random Forest**:
   - Accuracy: 1.00
